@@ -1,0 +1,152 @@
+
+.news-content .section-news li {
+    padding: 10px;
+}
+
+.news-content .section-hot li:hover {
+    background-color: green;
+}
+
+.news-content .section-hot .footer {
+    color: green;
+}
+
+.news-content .section-realty li:hover {
+    background-color: blue;
+}
+
+.news-content .section-realty .footer {
+    color: blue;
+}
+
+.news-content .section-news li:hover a {
+    color: white;
+}
+
+.news-content .section-news h2 {
+    color: white;
+    padding: 10px;
+}
+
+.news-content .section-hot h2 {
+    background-color: green;
+}
+
+.news-content .section-realty h2 {
+    background-color: blue;
+}
+
+.avatar-wrapper .avatar {
+    text-align: center;
+}
+
+#template {
+    width: 400px;
+    height: 200px;
+    border: 2px solid crimson;
+}
+#air ul {
+    width: 150px;
+    /*background-color: blue;*/
+    list-style-type: none;
+}
+
+#air li {
+    margin-bottom: 5px;
+}
+
+#air a {
+    line-height: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    padding: 0px 5px;
+    background-color: blue;
+    border: 1px solid darkred;
+    display: block;
+}
+
+#air a:hover {
+    color: blue;
+    background: white url("http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/images/blue.png") no-repeat 90% center;
+
+}
+
+#air li:hover{
+    background-color: cornsilk;
+}
+
+#air2 {
+    width: 700px;
+    margin: 10px auto;
+
+}
+#air2 ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;/*column*/
+    justify-content: left;/*space-between;*/
+}
+
+#air2 li {
+    /*display: inline-block;
+    margin-right: 10px;*/
+}
+
+#air2 a {
+    text-decoration: none;
+    color: gray;
+    display: block;
+    padding-top: 35px;
+
+}
+
+.a1 {
+    background: url("http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/1.png") no-repeat top center;
+}
+
+.a2 {
+    background: url("http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/2.png") no-repeat top center;
+}
+
+.a3 {
+    background: url("http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/3.png") no-repeat top center;
+}
+
+.a4 {
+    background: url("http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/4.png") no-repeat top center;
+}
+
+.a5 {
+    background: url("http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/5.png") no-repeat top center;
+}
+
+
+.a1:hover {
+    background: url("http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/1-h.png") no-repeat top center;
+}
+
+.a2:hover {
+    background: url("http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/2-h.png") no-repeat top center;
+}
+
+.a3:hover {
+    background: url("http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/3-h.png") no-repeat top center;
+}
+
+.a4:hover {
+    background: url("http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/4-h.png") no-repeat top center;
+}
+
+.a5:hover {
+    background: url("http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/5-h.png") no-repeat top center;
+}
+
+#air2 a:hover{
+    color: blue;
+}
+
+
+
+
+
